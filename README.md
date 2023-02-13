@@ -1,3 +1,1 @@
-#!/bin/bash
-holbertonschool-shell
-basics
+0. WHere am i?
